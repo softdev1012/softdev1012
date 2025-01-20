@@ -54,6 +54,6 @@
 
 ## Contact :mailbox_with_mail:
 <p align="left">
-<a href="https://join.skype.com/invite/JFiRANnB4WAZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="softdev1012" height="30" width="40" /></a>
+<a href="https://join.skype.com/invite/JFiRANnB4WAZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="softdev1012" height="30" width="40" /></a>
 </p>
 

@@ -1,4 +1,4 @@
-# Hi, I'm Ishant <img width="30px" height="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi, <img width="30px" height="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 ### A professional Full Stack Web and Desktop App Developer
 
 - 💬 Ask me anything related to **web and desktop app development**
@@ -47,15 +47,6 @@
 ### Hosting
 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-
-## Github Statistics :bar_chart:
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishantchauhan710" />
-<br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishantchauhan710&count_private=true&show_icons=true&include_all_commits=true" alt="softdev1012 | Stats"/>
-</p>
-
 
 ## Contributions :chart_with_upwards_trend:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=softdev1012&theme=react-dark&bg_color=111&hide_border=true" width="100%"/>

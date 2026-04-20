@@ -54,6 +54,6 @@
 
 ## Contact :mailbox_with_mail:
 <p align="left">
-<a href="https://t.me/chrisprodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="softdev1012" height="30" width="40" /></a>
+<a href="https://t.me/chrisprodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" alt="softdev1012" height="30" width="40" /></a>
 </p>
 

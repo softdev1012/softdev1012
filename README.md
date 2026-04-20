@@ -5,7 +5,7 @@
 
 - 🤝 I can also help you design your **UI / UX**
 
-- 📫 To reach me, just text me in skype at **live:.cid.b232f03e931ac5b7**
+- 📫 To reach me, just text me in telegram at **https://t.me/chrisprodev**
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=softdev1012&theme=highcontrast" alt="softdev1012" />
 
@@ -54,6 +54,6 @@
 
 ## Contact :mailbox_with_mail:
 <p align="left">
-<a href="https://join.skype.com/invite/JFiRANnB4WAZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="softdev1012" height="30" width="40" /></a>
+<a href="https://t.me/chrisprodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="softdev1012" height="30" width="40" /></a>
 </p>
 
